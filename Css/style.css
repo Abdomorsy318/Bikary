@@ -1,0 +1,303 @@
+body {
+    margin: 0;
+}
+
+.header {
+    height: 100vh;
+    background-image: url(../images/drew-coffman-1872.jpg);
+    background-size: cover;
+    background-position: center center;
+    overflow: auto;
+}
+
+.head-title {
+
+    color: #FFFFFF;
+    text-align: center;
+    width: 50%;
+    margin: auto;
+    margin-top: 100px;
+    padding-top: 150px;
+
+}
+
+.head-title span,
+p {
+    font-family: "Alegreya Sans", sans-serif;
+    font-weight: 400;
+    font-size: 22px;
+}
+
+.head-title h1 {
+    font-family: "Alegreya", serif;
+    font-size: 76px;
+    margin: 0;
+}
+
+.btn {
+    font-family: "Alegreya Sans", sans-serif;
+    font-weight: 700;
+    font-size: 16px;
+    margin-top: 30px;
+    padding: 15px 28px;
+    border-radius: 3px;
+    margin-bottom: 20px;
+    color: #FFFFFF;
+}
+
+.btn-left {
+    background-color: #8E7754;
+    border: 2px solid transparent;
+}
+
+.btn-right {
+    background-color: transparent;
+    border: 2px solid white;
+}
+
+.section2 {
+    padding: 90px 171.5px 60px;
+}
+
+.content {
+    float: left;
+}
+
+.content-r {
+    float: right;
+}
+
+.section2 .image {
+    width: 565px;
+    height: 536px;
+    padding-right: 24.797px;
+    padding-left: 24.797px;
+
+}
+
+.image img,
+.img-icon1 img,
+.img-icon2 img,
+.img-icon3 img,
+.img-icon4 img,
+.img-s3 img,
+.img1-1 img,
+.img-s5 img {
+    width: 100%;
+}
+
+.context {
+    width: 500px;
+    padding: 30px 0 0 50px;
+}
+
+
+.context h2 {
+    font-size: 32px;
+    font-weight: 400;
+    font-family: "Alegreya", serif;
+    color: #303030;
+}
+
+.context p {
+    font-family: "Alegreya Sans", sans-serif;
+    font-size: 17px;
+    color: #686868;
+}
+
+.img-text {
+    float: left;
+    /* width: 10px; */
+}
+
+.img-icon1,
+.img-icon2,
+.img-icon3,
+.img-icon4 {
+    width: 40px;
+    border: 1px solid #8e7754;
+    border-radius: 50%;
+    margin-bottom: 20px;
+}
+
+
+.clear-fix {
+    clear: both;
+}
+
+.text-icon1,
+.text-icon2,
+.text-icon3,
+.text-icon4 {
+    padding: 15px;
+    color: #686868;
+}
+
+
+.section3,
+.section5 {
+    background-color: #F8F8F8;
+    padding: 90px 171.5px;
+}
+
+.p-s3 {
+    width: 565.2px;
+    height: 290px;
+    padding: 20px 15px 0;
+}
+
+.img-s3,
+.img-s5 {
+    width: 565px;
+    height: 452px;
+}
+
+.section3 .p-s3 h2,
+.section4 h3,
+.section4 h4,
+.section5 h2 {
+    color: #303030;
+    font-family: "Alegreya", serif;
+    font-weight: 400;
+    font-size: 32px;
+
+}
+
+.section3 .p-s3 p,
+.section4 p,
+.section5 p,
+.section5 span {
+    color: #686868;
+    font-family: "Alegreya Sans", sans-serif;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 1.86em;
+    padding-bottom: 50px;
+
+}
+
+.section4 {
+    text-align: center;
+    padding: 70px 171.5px 50px;
+}
+
+.img1 {
+    text-align: center;
+    width: 30%;
+    float: left;
+    margin: 15px;
+    padding-top: 20px;
+}
+
+.section4 h4 {
+    font-size: 22px;
+}
+
+
+.icons2 {
+    background-color: #8E7754;
+}
+
+.contain-s5 {
+    width: 550px;
+}
+
+.section5 .icons-text {
+    padding-top: 20px;
+    width: 500px;
+}
+
+
+
+.all {
+    width: 600px;
+    height: 550px;
+    padding: 0 24.7969px 0 0;
+}
+
+.img-s5 img {
+    padding-top: 50px;
+}
+
+.section6 {
+    padding: 60px 0 52px;
+    background-color: #403D38;
+}
+
+.section-about2 .pp1-abdout img,
+.section-about3 .pp1-abdout img,
+.section-about4 .pp1-abdout img {
+    width: 30px;
+    margin-top: 10px;
+}
+
+.section-about1,
+.section-about2,
+.section-about3,
+.section-about4 {
+    width: 21%;
+    padding: 25px;
+}
+
+.section-about1 h4,
+.section-about2 h4,
+.section-about3 h4,
+.section-about4 h4{
+    font-family: "Alegreya", serif;
+    font-weight: 400;
+    font-size: 18px;
+    color: #fff;
+}
+
+.cen{
+    width: 80%;
+    margin: auto;
+}
+
+.section-about1 p,
+.section-about2 span,
+.section-about3 span,
+.section-about4 span {
+    font-family: "Alegreya Sans", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    color: #969696;
+    line-height: 2em;
+}
+
+.pt1-abdout {
+    margin-top: 15px ;
+}
+.un-line{
+    border-bottom: 2px solid #4A4742;
+}
+
+.special{
+    width: 230px;
+}
+
+.section7{
+    background-color: #353330;
+    padding: 50px 0 40px;
+    text-align: center;
+}
+
+.section7 span{
+    font-family: "Alegreya Sans", sans-serif;
+    font-weight: 400px;
+    font-size: 15px;
+    color: #777;
+    margin: 5px 0 0;
+}
+
+.img-s7{
+    margin: 10px 0 25px;
+}
+
+.icons-social img{
+    margin-top: 30px;
+    width: 40px;
+    border: 2px solid #484540;
+    background-color: #484540;
+    border-radius: 50%;
+}
